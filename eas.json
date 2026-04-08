@@ -1,4 +1,8 @@
+cat > eas.json << 'EOF'
 {
+  "cli": {
+    "version": ">= 5.0.0"
+  },
   "build": {
     "preview": {
       "android": {
@@ -7,3 +11,4 @@
     }
   }
 }
+EOF
