@@ -7,9 +7,6 @@
     "userInterfaceStyle": "light",
     "android": {
       "package": "com.fazendaboaesperanca.app"
-    },
-    "plugins": [
-      "expo-sqlite"
-    ]
+    }
   }
 }
