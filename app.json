@@ -4,11 +4,9 @@
     "slug": "fazenda-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "userInterfaceStyle": "light",
     "android": {
-      "package": "com.fazendaboaesperanca.app",
-      "compileSdkVersion": 34,
-      "targetSdkVersion": 34,
-      "buildToolsVersion": "34.0.0"
+      "package": "com.fazendaboaesperanca.app"
     },
     "plugins": [
       "expo-sqlite"
